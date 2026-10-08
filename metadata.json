@@ -1,0 +1,6 @@
+{
+  "name": "AI Electrical Troubleshooting Guide",
+  "description": "Professional dashboard and AI-powered electrical troubleshooting guide with monthly energy analytics, voltage/frequency tracking, wastage estimation, and safety protocols.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
